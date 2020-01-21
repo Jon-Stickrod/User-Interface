@@ -64,3 +64,23 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.top-nav {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	padding-right: 10% ;
+	padding-left: 10% ;
+}
+.top-nav a{
+	padding-top: 10px ;
+	padding-bottom: 10px ;
+	padding-right: 15px ;
+	padding-left: 15px ;
+}
+.sec-1 {
+
+}
+.sec-1-div {
+	
+}
