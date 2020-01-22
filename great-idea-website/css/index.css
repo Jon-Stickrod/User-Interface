@@ -78,6 +78,7 @@ h1, h2, h3, h4, h5 {
 	padding-right: 15px ;
 	padding-left: 15px ;
 	color: grey;
+	text-decoration: none;
 }
 .sec-1 {
 border-bottom: 2px solid black;
@@ -89,7 +90,7 @@ padding-bottom: 20px;
 }
 .sec-1-div {
 	position: absolute;
-	padding-top: 100px;
+	padding-top: 30px;
 	padding-left:20%;
 }
 .sec-1 img {
@@ -97,7 +98,7 @@ padding-bottom: 20px;
 	
 }
 .sec-1 div {
-	font-size: 50px;
+	font-size: 70px;
 	text-align: center;
 }
 .sec-2 {
