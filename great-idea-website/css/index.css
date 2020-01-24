@@ -64,3 +64,98 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.top-nav {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	padding-right: 10% ;
+	padding-left: 10% ;
+}
+.top-nav a{
+	padding-top: 10px ;
+	padding-bottom: 10px ;
+	padding-right: 15px ;
+	padding-left: 15px ;
+	color: grey;
+	text-decoration: none;
+	font-family: 'Fredoka One', cursive;
+}
+.sec-1 {
+border-bottom: 2px solid black;
+margin-left:  9% ;
+margin-right:  9% ;
+margin-bottom: 50px ;
+margin-top: 50px ;
+padding-bottom: 20px;
+}
+.sec-1-div {
+	position: absolute;
+	padding-top: 30px;
+	padding-left:20%;
+}
+.sec-1 img {
+	padding-left: 55%;
+	
+}
+.sec-1 div {
+	font-size: 70px;
+	text-align: center;
+}
+.sec-2 {
+	margin-left:  9% ;
+margin-right:  9% ;
+padding-top: 30px ;
+padding-bottom: 30px ;
+border-bottom: 1px solid black;
+
+}
+.sub-sec {
+display: inline-block ;
+float: left;	
+}
+.div-1 {
+		margin-left: 10% ;
+	margin-right: 10% ;
+	padding-bottom: 30px;
+}
+.div-2 {
+
+		margin-left: 10% ;
+	margin-right: 10% ;
+	padding-top: 30px ;
+	padding-bottom: 10px ;
+}
+
+
+h2 {
+
+}
+p {
+	display: inline-block ;
+}
+td {
+	padding-right: 10px ;
+	padding-left: 10px ;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	position: relative; ;
+}
+.middle-img {
+	margin-left: 10% ;
+	margin-right: 10% ;
+}
+footer {
+	margin-left:  9% ;
+}
+.footer {
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#center {
+	margin-left: 40% ;
+	margin-right: 40% ;
+}
